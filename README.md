@@ -23,4 +23,4 @@ I wanted to try something different today. I wanted to write. Writing is the too
 
 
 
-Is it Possible to Write "Clearly and Simply?" Writing clearly and simply can be one of the most difficult of all writing tasks. Clear and simple writing is essential to the understandability of web content. Unclear or confusing writing is an accessibility barrier to all readers but can be especially difficult for people with reading disorders or cognitive disabilities. “Writing comes more easily if you have something to say.”
+It’s been a busy September.I had a lot to get done and I’m still working on finishing some things I started in September.No matter how busy I am, I continue to find time to read — I never want to stop learning. I’m determined to continue this reading habit to support my decision to keep learning new things.It opens my mind!.The Purpose Of Life Is Not Happiness: It’s Usefulness.Being useful is a mindset. And like with any mindset, it starts with a decision.
