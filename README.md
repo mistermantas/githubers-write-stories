@@ -20,3 +20,7 @@ I'll start with the intro paragraph which is 68 words and is going to be pretty 
 ---
 
 I wanted to try something different today. I wanted to write. Writing is the tool that helps people to think. It’s also something that transcends reality in a way, no? Well, because when you write you can create your own universe — of knowledge, of chaos, or emotion. In this story, they're called paragraphs. But less about my technique, dear reader, there's something I've been meaning to tell you...
+
+
+
+Is it Possible to Write "Clearly and Simply?" Writing clearly and simply can be one of the most difficult of all writing tasks. Clear and simple writing is essential to the understandability of web content. Unclear or confusing writing is an accessibility barrier to all readers but can be especially difficult for people with reading disorders or cognitive disabilities. “Writing comes more easily if you have something to say.”
