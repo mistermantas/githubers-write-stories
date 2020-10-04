@@ -15,6 +15,8 @@ Write words. Create little worlds inside this one file.
 * Write **at least 50 (really good) words, but no more than 250**. If you haven't guessed yet — write in English!
 * Limit profanity, no hate speech, etc. Good intentions only. **Let's have some good fun!** No pressure
 
+(Also, star the repository, if you like the idea and want more people to see it!)
+
 I'll start with the intro paragraph which is 68 words and is going to be pretty vague, but that's on purpose. Take initiave or follow along with what others have written before you!
 
 ---
