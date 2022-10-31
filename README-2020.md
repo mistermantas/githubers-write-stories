@@ -1,16 +1,16 @@
-# 🌹 A Nice Story by GitHub Users
+# 🌹 A Nice Story by GitHub Users (2020)
 
 So, here's my idea.
 
 While signing up for Hacktoberfest this year, I thought "this is about writing code together." What else can we do together?
 
-Write words. Create little worlds inside this one file.
+Write words. Create a little world by storytelling inside this one file.
 
 *Everything here goes into the public domain (CC0 license).*
 
 ## Contributing
 
-* **One PR per person** (do not cheat for Hacktoberfest — make some other more quality PRs!)
+* **One PR per person** (do not cheat for Hacktoberfest — make some other quality PRs!)
 * Important: **always write at the end of the document**. Leave some space for others, so we get some separation 
 * Write **at least 50 (really good) words, but no more than 250**. If you haven't guessed yet — write in English!
 * Limit profanity, no hate speech, etc. Good intentions only. **Let's have some good fun!** No pressure
